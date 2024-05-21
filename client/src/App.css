@@ -428,7 +428,7 @@ a {
 }
 
 a:hover {
-  color: #065b83;
+  color: #003c58;
   text-decoration: underline;
 }
 
@@ -920,11 +920,12 @@ a:hover {
 
 /* BACKGROUND UTILS */
 .bg-primary {
-  background-color: #2d3e50 !important;
+  background: linear-gradient(to right, #140a4b, #6243e8) !important;
 }
 
+
 .bg-info {
-  background-color: #1bbc9b !important;
+  background-color: #026654 !important;
 }
 
 .bg-danger {
@@ -1030,21 +1031,21 @@ a:hover {
 }
 
 .btn.btn-info {
-  background-color: #1bbc9b;
+  background-color: #140a4b;
   color: #ffffff;
 }
 
 .btn.btn-info:hover {
-  background-color: #31e1bd;
+  background-color: #6243e8;
 }
 
 .btn.btn-light {
-  background-color: #d9e9e8;
+  background-color: #ffffff;
   color: #1a1a1a;
 }
 
 .btn.btn-light:hover {
-  background-color: #84b8b4;
+  background-color: rgb(119, 124, 255)
 }
 
 .btn.btn-dark {
