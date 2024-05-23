@@ -14,8 +14,9 @@ const Footer = () => {
             &larr; Go Back
           </button>
         )}
-        <div className='bg-primary text-white card'></div>
-        <h4>Made by Yusuf Daza, Alexander Scarlett, Alejandro Quiroz</h4>
+         <div className='bg-primary text-white card'>
+         <h4>Made by Yusuf Daza, Alexander Scarlett, Alejandro Quiroz</h4>
+         </div>
       </div>
     </footer>
   );
