@@ -49,7 +49,8 @@ const ThoughtForm = () => {
   };
 
   return (
-    <div>
+    
+     <div className='bg-primary text-white card'>
       <h3>Whats cookin gamers?</h3>
 
       {Auth.loggedIn() ? (
