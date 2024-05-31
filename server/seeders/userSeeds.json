@@ -1,0 +1,52 @@
+[
+  {
+    "username": "Alejandro Quiroz",
+    "email": "alejandroquiroz@gamergrid.dev",
+    "password": "password01"
+  },
+  {
+    "username": "Alexander Scarlett",
+    "email": "alexanderscarlett@gamergrid.dev",
+    "password": "password02"
+  },
+  {
+    "username": "Yusuf Daza",
+    "email": "yusufdaza@gamergrid.dev",
+    "password": "password03"
+  },
+  {
+    "username": "Conquest King",
+    "email": "conquestking@gamergrid.dev",
+    "password": "password04"
+  },
+  {
+    "username": "Power Player",
+    "email": "powerplayer@gamergrid.dev",
+    "password": "password05"
+  },
+  {
+    "username": "Michael Pol",
+    "email": "michaelpol@gamergrid.dev",
+    "password": "password06"
+  },
+  {
+    "username": "Battle Boss",
+    "email": "battleboss@gamergrid.dev",
+    "password": "password07"
+  },
+  {
+    "username": "Game Master Flex",
+    "email": "gamemasterflex@gamergrid.dev",
+    "password": "password08"
+  },
+  {
+    "username": "Miller Brown",
+    "email": "millerbrown@gamergrid.dev",
+    "password": "password09"
+  },
+  {
+    "username": "Epic Quest Master",
+    "email": "epicquestmaster@gamergrid.dev",
+    "password": "password10"
+  }
+]
